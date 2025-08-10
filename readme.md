@@ -1,7 +1,6 @@
-# Projeto do mozão
+# Projetinho
 
-- Esse projeto tem o intuito de aprendizado para minha namorada linda
-
+- Esse projeto tem o intuito de aprendizado
 ## Checklist
 
 - iniciar o Front-end
